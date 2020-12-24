@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cook</string>
+    <string name="random_food">Food Random</string>
+    <string name="search_food">Search food with first letter</string>
+    <string name="get_search_food">Result Search Food</string>
+    <string name="first_letter_food">Search foods</string>
+</resources>
